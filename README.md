@@ -76,13 +76,8 @@ Common behavior:
 - Repeat the operation mutiple times to reduce the noise and enhance the quality
 
 ## Scenes & Screenshots
-SOON
-*
-*
-*
-*
-*
-*
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Burger.webp" width="500">)
+<img src="https://github.com/Loufok0/B-12/blob/main/ressources/Pokeball.webp" width="500">)
 
 ## Project structure (suggested)
 - src/            — execution, calculs and rendering code
