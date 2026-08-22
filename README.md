@@ -23,6 +23,8 @@ miniRT is a compact educational ray tracer that demonstrates:
 
 This project follows the 42 pedagogical constraints and focuses on clarity and correctness.
 
+This project has been released by [Neon-05](https://github.com/Neon-05) and [Loufok0](https://github.com/Loufok0)
+
 ## Features
 - Parse scene files (.rt) describing camera, lights and objects
 - Render spheres, planes, and cylinders
