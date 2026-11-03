@@ -15,12 +15,14 @@
 */
 
 #ifndef MLX_INT_H
+# define _GNU_SOURCE
 
 # define MLX_INT_H
 
 # include <stdlib.h>
 # include <stdio.h>
 # include <string.h>
+# include <strings.h>
 # include <unistd.h>
 # include <fcntl.h>
 # include <sys/mman.h>

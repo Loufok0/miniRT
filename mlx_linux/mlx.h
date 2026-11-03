@@ -30,6 +30,7 @@
 #ifndef MLX_H
 
 #define	MLX_H
+#define _GNU_SOURCE
 
 
 void	*mlx_init();
